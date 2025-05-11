@@ -1,1 +1,2 @@
-rajout de nouvelles notes
+Les notes du projet principal
+nouvelles notes de feature
